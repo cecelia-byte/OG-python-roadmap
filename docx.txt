@@ -1,0 +1,3 @@
+hi i am samridhi
+and this is a sample file
+for input output operations.
